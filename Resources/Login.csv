@@ -1,0 +1,5 @@
+*** Test Cases ***,${Username},${Password}
+Invalid Username,admi,admin123
+Invalid Password,Admin,admi
+Special Characters,@#$%,@#$%^^
+Invalid User & Password,admin,admin
